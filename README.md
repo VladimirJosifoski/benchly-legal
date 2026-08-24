@@ -1,29 +1,26 @@
-# Benchly Legal Site
+# Benchly Legal
 
-Static legal/support website for Benchly.
+Official legal and support pages for **Benchly**, a mobile app for discovering, sharing, and saving memorable benches and places.
 
-## Files
+This repository contains the public pages used for Benchly's App Store and Google Play distribution requirements.
 
-- `index.html` – landing page
-- `privacy.html` – privacy policy
-- `terms.html` – terms of service
-- `support.html` – support page
-- `delete-account.html` – account deletion instructions
-- `styles.css` – shared styling
+## Pages
 
-## Before publishing
+* Privacy Policy
+* Terms of Service
+* Support
+* Account Deletion
 
-Search the project for these placeholders and replace them:
+## Website
 
-- `vladimirjosifoski94@gmail.com`
-- `vladimirjosifoski94@gmail.com`
+The public legal site is hosted using GitHub Pages.
 
-Also verify that the account deletion instructions match the final app UI and that
-the Privacy Policy accurately reflects the production app's actual data collection,
-sharing, retention, analytics, advertising, and third-party services.
+## About Benchly
 
-## GitHub Pages
+Benchly helps people discover benches, share interesting places, save their favorites, and leave memories connected to those locations.
 
-Push these files to the public `benchly-legal` repository, then enable:
+## Support
 
-Settings → Pages → Deploy from a branch → `main` → `/ (root)`
+For questions about Benchly, please use the contact information provided on the Support page.
+
+© 2026 Benchly
